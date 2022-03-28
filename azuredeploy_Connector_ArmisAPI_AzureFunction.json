@@ -179,7 +179,7 @@
                         "ArmisActivitiesTableName": "[parameters('ArmisActivitiesTableName')]",
                         "Interval": "[parameters('Interval')]",
                         "StartTime": "[parameters('StartTime')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/PreetMParikh/Azure-Sentinel-Alerts/blob/main/ArmisAlertTrigger.zip?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/PreetMParikh/Azure-Sentinel-Activity/blob/main/ArmisActivityTrigger.zip?raw=true"
                     }
                 }
             ]
